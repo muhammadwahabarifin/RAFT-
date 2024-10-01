@@ -5,7 +5,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
  - Node.js
  - Git
  - Npm
-
+   
+View Demo : https://raft-chi.vercel.app/
    
 ## Tech Stack
 - Nextjs
