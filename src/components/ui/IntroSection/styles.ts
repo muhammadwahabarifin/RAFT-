@@ -28,10 +28,10 @@ export const Header = styled.header`
   margin: 0 auto 7.38rem;
 
   h3 {
-    color: var(--emerald);
+    
     font-size: 1.125rem;
     font-weight: 500;
-    text-transform: uppercase;
+    text-transform: capitalize;
     margin-bottom: 1rem;
   }
 

@@ -12,7 +12,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
     <StyledComponentsRegistry>
       <ReactLenis
         root
-        easing={(t: number) => Math.min(1, 1.001 - Math.pow(2, -10 * t))}
+       
       >
         <GlobalStyles />
         <Preloader setComplete={setComplete} />
